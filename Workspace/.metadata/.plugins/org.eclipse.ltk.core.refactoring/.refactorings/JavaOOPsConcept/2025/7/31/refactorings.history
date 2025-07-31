@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;Inheritance&apos; to &apos;inheritance&apos;&#x0D;&#x0A;- Original project: &apos;JavaOOPsConcept&apos;&#x0D;&#x0A;- Original element: &apos;JavaOOPsConcept/src/Inheritance&apos;&#x0D;&#x0A;- Renamed element: &apos;JavaOOPsConcept/src/inheritance&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;Inheritance&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;Inheritance" name="inheritance" qualified="false" references="true" stamp="1753929157981" textual="false" version="1.0"/>
+</session>

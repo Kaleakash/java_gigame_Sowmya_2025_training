@@ -1,0 +1,8 @@
+package inheritance;
+
+public class Employee {
+
+	public void disEmployee() {
+		System.out.println("Display Employee details");
+	}
+}

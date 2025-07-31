@@ -1,0 +1,31 @@
+package com;
+
+public class CarTest {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+//		Car innova = new Car();	// heap memory 
+//		innova.start();
+//		innova.stop();
+//		
+//		Car ertiga = new Car();	// new memory created 
+//		ertiga.start();
+//		ertiga.stop();
+		
+		Car innova = new Car();
+		//innova.displayCarDetails();
+		innova.wheel=4;
+		innova.colour="White";
+		innova.price=3500000;
+		innova.displayCarDetails("Innvoa");
+		System.out.println("------------------------");
+		Car ertiga = new Car();
+		//ertiga.displayCarDetails();
+		ertiga.colour="Black";
+		ertiga.wheel=4;
+		ertiga.price=1500000;
+		ertiga.displayCarDetails("Ertiga");
+	}
+
+}

@@ -1,0 +1,8 @@
+package inheritance;
+
+public class Manager {
+
+	public void displayManagerDetails() {
+		System.out.println("Manager details");
+	}
+}

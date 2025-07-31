@@ -1,0 +1,43 @@
+package com;
+
+public class Car {
+	int wheel;
+	float price;
+	String colour;
+	
+	Car() {
+		System.out.println("object created...");
+		wheel = 4;
+		price = 1000000;
+		colour = "Don't known";
+	}
+//	Car(int wheel1, float price1,String colour1){
+//		wheel=wheel1;
+//		price=price1;
+//		colour=colour1;
+//	}
+	Car(int wheel, float price,String colour){
+		this.wheel=wheel;
+		this.price=price;
+		this.colour=colour;
+	}
+	void start() {
+		System.out.println("Car Start");
+	}
+	void appliedGear() {
+		
+	}
+	void moving() {
+		
+	}
+	void stop() {
+		System.out.println("Car stop");
+	}
+	void displayCarDetails(String info) {
+		String msg="Car Details : "+info;
+		System.out.println(msg);
+		System.out.println("Wheel "+wheel);
+		System.out.println("colour "+colour);
+		System.out.println("price "+price);
+	}
+}

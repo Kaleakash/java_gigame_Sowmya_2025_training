@@ -1,0 +1,17 @@
+package com;
+
+public class CarTest {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		Car innova = new Car();	// heap memory 
+		innova.start();
+		innova.stop();
+		
+		Car ertiga = new Car();	// new memory created 
+		ertiga.start();
+		ertiga.stop();
+	}
+
+}
