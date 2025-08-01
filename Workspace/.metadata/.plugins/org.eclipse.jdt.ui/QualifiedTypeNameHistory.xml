@@ -1,2 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="encapsulation.Employee"/>
+    <fullyQualifiedTypeName name="inheritance.Manager"/>
+    <fullyQualifiedTypeName name="inheritance.Employee"/>
+    <fullyQualifiedTypeName name="inheritance.Address"/>
+    <fullyQualifiedTypeName name="polymorphism.Operation"/>
+    <fullyQualifiedTypeName name="polymorphism.Pulsar"/>
+    <fullyQualifiedTypeName name="polymorphism.Honda"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+</qualifiedTypeNameHistroy>
