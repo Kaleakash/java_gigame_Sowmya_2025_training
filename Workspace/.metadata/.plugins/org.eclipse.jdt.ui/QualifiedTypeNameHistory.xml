@@ -8,4 +8,6 @@
     <fullyQualifiedTypeName name="polymorphism.Pulsar"/>
     <fullyQualifiedTypeName name="polymorphism.Honda"/>
     <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="statickeyword.Employee"/>
+    <fullyQualifiedTypeName name="com.bean.Employee"/>
 </qualifiedTypeNameHistroy>
