@@ -11,11 +11,11 @@ public class CollectionsExamples {
 		names.add("Raj");names.add("Vijay"); names.add("Ajay");
 		System.out.println(names);
 		
-		Collections.sort(names);
+			Collections.sort(names);
 		
 		System.out.println("after sort - asc");
 		System.out.println(names);
-		Collections.reverse(names);
+			Collections.reverse(names);
 		
 		System.out.println("after sort - desc");
 		System.out.println(names);

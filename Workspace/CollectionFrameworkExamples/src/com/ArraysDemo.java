@@ -17,7 +17,7 @@ public class ArraysDemo {
 		for(int n:num) {
 			System.out.print(" "+n);
 		}
-		System.out.println();
+		System.out.println("binary search work with in sorted data");
 		System.out.println(" search opeation using birary search, element present in index position  "+Arrays.binarySearch(num, 4));
 		System.out.println(" search opeation using birary search, element present in index position  "+Arrays.binarySearch(num, 9));
 	}
